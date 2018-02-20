@@ -1,0 +1,20 @@
+{
+  "name": "dad-bot-mini",
+  "description": "no problem son",
+  "version": "0.0.1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GummiWummiBear/dad-bot-mini/dad-bot-mini.git"
+  },
+  "keywords": ["discord", "bot", "node", "nodejs", "js", "javascript", "dad"],
+  "author": "GummiWummiBear",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/GummiWummiBear/dad-bot-mini/issues"
+  },
+  "homepage": "https://github.com/GummiWummiBear/dad-bot-mini/"
+}
