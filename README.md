@@ -1,2 +1,2 @@
 # dad-bot-mini
-idfk
+no problem son
